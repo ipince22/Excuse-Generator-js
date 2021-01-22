@@ -1,6 +1,7 @@
   function myFunction() {
     setInterval(function(){ 
-        generator() }, 3000);
+        generator() 
+    }, 3000);
     }
 
       function generator() {
